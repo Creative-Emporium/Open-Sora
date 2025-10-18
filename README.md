@@ -23,12 +23,12 @@ Open-Sora not only democratizes access to advanced video generation techniques, 
 streamlined and user-friendly platform that simplifies the complexities of video generation.
 With Open-Sora, our goal is to foster innovation, creativity, and inclusivity within the field of content creation.
 
-<!-- 🎬 For a professional AI video-generation product, try [Video Ocean](https://video-ocean.com/) — powered by a superior model.
+🎬 For a professional AI video-generation product, try [Video Ocean](https://video-ocean.com/) — powered by a superior model.
 <div align="center">
    <a href="https://video-ocean.com/">
    <img src="https://github.com/hpcaitech/public_assets/blob/main/colossalai/img/3.gif" width="850" />
    </a>
-</div> -->
+</div>
 
 <div align="center">
    <a href="https://hpc-ai.com/?utm_source=github&utm_medium=social&utm_campaign=promotion-opensora">
@@ -55,7 +55,7 @@ With Open-Sora, our goal is to foster innovation, creativity, and inclusivity wi
 - **[2024.03.04]** Open-Sora provides training with 46% cost reduction.
   [[blog]](https://hpc-ai.com/blog/open-sora)
 
-📍 Since Open-Sora is under active development, we remain different branchs for different versions. The latest version is [main](https://github.com/hpcaitech/Open-Sora). Old versions include: [v1.0](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.0), [v1.1](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.1), [v1.2](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.2), [v1.3](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.3).
+📍 Since Open-Sora is under active development, we remain different branches for different versions. The latest version is [main](https://github.com/hpcaitech/Open-Sora). Old versions include: [v1.0](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.0), [v1.1](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.1), [v1.2](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.2), [v1.3](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.3).
 
 ## 🎥 Latest Demo
 
@@ -135,7 +135,7 @@ see [here](/assets/texts/t2v_samples.txt) for full prompts.
   - [Open-Sora 1.1](docs/report_02.md): multi-resolution/length/aspect-ratio, image/video conditioning/editing, data preprocessing, etc.
   - [Open-Sora 1.0](docs/report_01.md): architecture, captioning, etc.
 
-📍 Since Open-Sora is under active development, we remain different branchs for different versions. The latest version is [main](https://github.com/hpcaitech/Open-Sora). Old versions include: [v1.0](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.0), [v1.1](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.1), [v1.2](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.2), [v1.3](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.3).
+📍 Since Open-Sora is under active development, we remain different branches for different versions. The latest version is [main](https://github.com/hpcaitech/Open-Sora). Old versions include: [v1.0](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.0), [v1.1](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.1), [v1.2](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.2), [v1.3](https://github.com/hpcaitech/Open-Sora/tree/opensora/v1.3).
 
 ## Quickstart
 
